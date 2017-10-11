@@ -7,17 +7,17 @@ permalink:           pretty
 plugins: [jekyll-paginate]
 
 # Setup
-title:            Hyde
-tagline:          'A Jekyll theme'
-description:      'A brazen two-column <a href="http://jekyllrb.com" target="_blank">Jekyll</a> theme that pairs a prominent sidebar with uncomplicated content. Made by <a href="https://twitter.com/mdo" target="_blank">@mdo</a>.'
+title:            Chase Elander's Site
+tagline:          'It'll never be perfect, but it's mine'
+description:      "A site originally made in ENGL 460 int the Fall of 2017. We'll see how far/long I keep it updating. "
 url:              https://ChaseElander.github.io
 baseurl:          ''
 
 author:
-  name:           'Chase Elander (modified from Mark Otto)'
-  url:            https://twitter.com/mdo
+  name:           'Chase Elander'
+  url:            https://github.com/oncomouse/engl460fall2017/blob/master/units/02-tools/07-jekyll/day20.md
 
-paginate:         5
+paginate:         13
 
 # Custom vars
 version:          2.1.0
