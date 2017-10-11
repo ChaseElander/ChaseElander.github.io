@@ -8,13 +8,15 @@ plugins: [jekyll-paginate]
 
 # Setup
 title:            Hyde
-tagline:          'Never be perfect, be yourself'
-description:      "A site originally made in ENGL 460 int the Fall of 2017. We'll see how far/long I keep it updating."
+tagline:          'Never be perfect be yourself'
+description:      'A site originally made in ENGL 460 int the Fall of 2017'
 url:              https://ChaseElander.github.io
-baseurl:          ''
+baseurl:          '/hyde'
 
 author:
   name:           'Chase Elander'
   url:            https://github.com/oncomouse/engl460fall2017/blob/master/units/02-tools/07-jekyll/day20.md
 
 paginate:         5
+
+
