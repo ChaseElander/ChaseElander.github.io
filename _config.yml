@@ -7,7 +7,7 @@ permalink:           pretty
 plugins: [jekyll-paginate]
 
 # Setup
-title:            ChaseElander
+title:            Hyde
 tagline:          'Never be perfect be yourself'
 description:      'A site originally made in ENGL 460 int the Fall of 2017'
 url:              https://ChaseElander.github.io
