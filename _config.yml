@@ -7,14 +7,14 @@ permalink:           pretty
 plugins: [jekyll-paginate]
 
 # Setup
-title:            "Elander"
-tagline:          "It'll never be perfect, but it's mine"
-description:      "A site originally made in ENGL 460 int the Fall of 2017. We'll see how far/long I keep it updating. "
+title:            Hyde
+tagline:          'Never be perfect, be yourself'
+description:      "A site originally made in ENGL 460 int the Fall of 2017. We'll see how far/long I keep it updating."
 url:              https://ChaseElander.github.io
-baseurl:          '/elander'
+baseurl:          ''
 
 author:
   name:           'Chase Elander'
   url:            https://github.com/oncomouse/engl460fall2017/blob/master/units/02-tools/07-jekyll/day20.md
 
-paginate:         13
+paginate:         5
