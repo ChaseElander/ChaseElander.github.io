@@ -1,20 +1,10 @@
 # Another One! 
 ## Major Key
 
-731     1337                 
-133    1337                  
-373   133    1337               
-317  133  1337  1337 133    13337 
-731 133  1337   1337 1337  1337 
-1337133  1337133713  13371337 
-373  133  133        133713 
-317   133  1337133   1337 
-                    1337 
-                 133713 
                    
 #### Yet another day in (Blog)par-a-dise
 
-I apologize immediately for the DJ Khalid refernce.Though I will not apologize for the 1337 ASCII Art
+I apologize immediately for the DJ Khalid refernce.
 
 Things to do this week (In precedence mixed weirdly with timing)
 * Lunch with Matt
