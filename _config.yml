@@ -7,8 +7,8 @@ permalink:           pretty
 plugins: [jekyll-paginate]
 
 # Setup
-title:            Elander
-tagline:          'It'll never be perfect, but it's mine'
+title:            "Elander"
+tagline:          "It'll never be perfect, but it's mine"
 description:      "A site originally made in ENGL 460 int the Fall of 2017. We'll see how far/long I keep it updating. "
 url:              https://ChaseElander.github.io
 baseurl:          '/elander'
