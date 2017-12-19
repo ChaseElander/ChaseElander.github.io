@@ -5,7 +5,7 @@ title: Contact Me
 
 #Contact Me
 
-i am reachable if you know how to reach me.
+Rather than post my contact information on a public website, I ask that you will contact me through Linked In.
 
 <body class="layout-reverse">
   ...
