@@ -1,3 +1,4 @@
+# PreExisting Policies Below
 
 ## Usage
 
@@ -9,9 +10,6 @@ Hyde is a theme built on top of [Poole](https://github.com/poole/poole), which p
 - <https://github.com/mdo>
 - <https://twitter.com/mdo>
 
-
 ## License
 
 Open sourced under the [MIT license](LICENSE.md).
-
-<3
