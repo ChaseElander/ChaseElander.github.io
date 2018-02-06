@@ -8,7 +8,7 @@ plugins: [jekyll-paginate]
 
 # Setup
 title:            CElander
-tagline:          'I am still figuring this whole thing out'
+tagline:          ''
 description:      'A site originally made in ENGL 460 in the Fall of 2017'
 url:              https://ChaseElander.github.io
 baseurl:          ''
