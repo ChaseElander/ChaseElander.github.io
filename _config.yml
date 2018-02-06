@@ -9,7 +9,7 @@ plugins: [jekyll-paginate]
 # Setup
 title:            CElander
 tagline:          ''
-description:      'Website for Chase ELander'
+description:      'Website for CElander'
 url:              https://ChaseElander.github.io
 baseurl:          ''
 
