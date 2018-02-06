@@ -1,1 +1,1 @@
-#This is where I stoe images hosted on my site
+#This is where I store images hosted on my site
