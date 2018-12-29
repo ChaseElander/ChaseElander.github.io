@@ -7,9 +7,9 @@ permalink:           pretty
 plugins: [jekyll-paginate]
 
 # Setup
-title:            CElander
+title:            C.T.Elander
 tagline:          ''
-description:      'Website for CElander'
+description:      'Website for C.T.Elander'
 url:              https://ChaseElander.github.io
 baseurl:          ''
 
