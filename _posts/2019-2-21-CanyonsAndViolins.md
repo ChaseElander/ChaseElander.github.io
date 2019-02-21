@@ -5,7 +5,7 @@ date: 2019-2-21 14:45
 ---
 I make poetry sometimes.
 
-![Canyons And Violins](hyde/assets/images/CanyonsAndViolins.jpg)
+![Canyons And Violins](/assets/images/CanyonsAndViolins.jpg)
 
 
 
