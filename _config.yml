@@ -12,6 +12,11 @@ tagline:          ''
 description:      'Website for CTElander'
 url:              https://ChaseElander.github.io
 baseurl:          ''
+defaults:
+  - scope:
+      path: "assets/images"
+    values:
+      image: true
 
 author:
   name:           'Chase Elander'
